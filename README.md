@@ -1,12 +1,16 @@
 BinarySearch - Online Programming
 =============================
 
+#### Profile
+- [kaushik_acharya](https://binarysearch.com/@/kaushik_acharya)
+
 ### Algorithm Problems' Solutions
 
 | # | Problem | Solution | Unit Tests |
 |---|---------|----------|------------|
+|6|[Special Product List](https://binarysearch.com/problems/Special-Product-List)|[C++](./src/special_product_list.cpp)|[Y](./test/special_product_list_test.cpp)|
 |40|[Kth Last Node of a Linked List](https://binarysearch.io/problems/Kth-Last-Node-of-a-Linked-List)|[C++](./src/kth_last_node_of_a_linked_list.cpp)|
-|91|[Longest Tree Sum Path From Root to Leaf](https://binarysearch.com/problems/Longest-Tree-Sum-Path-From-Root-to-Leaf)|[C++](./src/longest_tree_sum_path_from_root_to_leaf.cpp)|[Y](longest_tree_sum_path_from_root_to_leaf_test)|
+|91|[Longest Tree Sum Path From Root to Leaf](https://binarysearch.com/problems/Longest-Tree-Sum-Path-From-Root-to-Leaf)|[C++](./src/longest_tree_sum_path_from_root_to_leaf.cpp)|[Y](./test/longest_tree_sum_path_from_root_to_leaf_test.cpp)|
 |127|[Pascal's Triangle](https://binarysearch.io/problems/Pascal's-Triangle)|[C++](./src/pascals_triangle.cpp)|
 |592|[Diagonal Tree Traversal](https://binarysearch.com/problems/Diagonal-Tree-Traversal)|[C++](./src/diagonal_tree_traversal.cpp)|[Y](./test/diagonal_tree_traversal_test.cpp)|
 |866|[Largest Pair of Points](https://binarysearch.com/problems/Largest-Pair-of-Points)|[C++](./src/largest_pair_of_points.cpp)|[Y](./test/largest_pair_of_points_test.cpp)|
