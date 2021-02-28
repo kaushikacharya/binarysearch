@@ -10,6 +10,7 @@ BinarySearch - Online Programming
 |---|---------|----------|------------|
 |6|[Special Product List](https://binarysearch.com/problems/Special-Product-List)|[C++](./src/special_product_list.cpp)|[Y](./test/special_product_list_test.cpp)|
 |40|[Kth Last Node of a Linked List](https://binarysearch.io/problems/Kth-Last-Node-of-a-Linked-List)|[C++](./src/kth_last_node_of_a_linked_list.cpp)|
+|72|[Invert Tree](https://binarysearch.com/problems/Invert-Tree)|[C++](./src/invert_tree.cpp)|[Y](./test/invert_tree_test.cpp)|
 |91|[Longest Tree Sum Path From Root to Leaf](https://binarysearch.com/problems/Longest-Tree-Sum-Path-From-Root-to-Leaf)|[C++](./src/longest_tree_sum_path_from_root_to_leaf.cpp)|[Y](./test/longest_tree_sum_path_from_root_to_leaf_test.cpp)|
 |122|[Longest Consecutive Run of 1s in Binary](https://binarysearch.com/problems/Longest-Consecutive-Run-of-1s-in-Binary)|[C++](./src/longest_consecutive_run_of_1s_in_binary.cpp)|[Y](./test/longest_consecutive_run_of_1s_in_binary_test.cpp)|
 |127|[Pascal's Triangle](https://binarysearch.io/problems/Pascal's-Triangle)|[C++](./src/pascals_triangle.cpp)|
