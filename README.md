@@ -14,6 +14,7 @@ BinarySearch - Online Programming
 |91|[Longest Tree Sum Path From Root to Leaf](https://binarysearch.com/problems/Longest-Tree-Sum-Path-From-Root-to-Leaf)|[C++](./src/longest_tree_sum_path_from_root_to_leaf.cpp)|[Y](./test/longest_tree_sum_path_from_root_to_leaf_test.cpp)|
 |122|[Longest Consecutive Run of 1s in Binary](https://binarysearch.com/problems/Longest-Consecutive-Run-of-1s-in-Binary)|[C++](./src/longest_consecutive_run_of_1s_in_binary.cpp)|[Y](./test/longest_consecutive_run_of_1s_in_binary_test.cpp)|
 |127|[Pascal's Triangle](https://binarysearch.io/problems/Pascal's-Triangle)|[C++](./src/pascals_triangle.cpp)|
+|155|[Merging K Sorted Lists](https://binarysearch.com/problems/Merging-K-Sorted-Lists)|[C++](./src/merging_k_sorted_lists.cpp)|[Y](./test/merging_k_sorted_lists_test.cpp)|
 |592|[Diagonal Tree Traversal](https://binarysearch.com/problems/Diagonal-Tree-Traversal)|[C++](./src/diagonal_tree_traversal.cpp)|[Y](./test/diagonal_tree_traversal_test.cpp)|
 |866|[Largest Pair of Points](https://binarysearch.com/problems/Largest-Pair-of-Points)|[C++](./src/largest_pair_of_points.cpp)|[Y](./test/largest_pair_of_points_test.cpp)|
 |867|[Tree Shifting](https://binarysearch.com/problems/Tree-Shifting)|[C++](./src/tree_shifting.cpp)|[Y](./test/tree_shifting_test.cpp)|
